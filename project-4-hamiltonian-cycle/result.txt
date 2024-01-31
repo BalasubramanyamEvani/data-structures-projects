@@ -1,0 +1,32 @@
+bevani
+
+TestCase1
+Hamiltonian Cycle
+0 1 2 3 0 
+Length
+9.972129467002565
+Optimum Path
+0 2 3 1 0 
+Length
+9.499048743818797
+
+TestCase2
+Hamiltonian Cycle
+0 6 5 2 1 8 7 4 3 0 
+Length
+16.354300334021968
+Optimum Path
+0 6 5 2 3 1 4 7 8 0 
+Length
+14.401413183926357
+
+TestCase3
+Hamiltonian Cycle
+0 1 2 3 4 5 6 7 9 11 8 10 0 
+Length
+9.89197185141722
+Optimum Path
+0 1 2 3 4 5 6 7 9 11 10 8 0 
+Length
+9.613188002785897
+
